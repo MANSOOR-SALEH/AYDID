@@ -1,0 +1,10 @@
+# Install torch SEPARATELY with the right CUDA wheel first (see README), e.g.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+transformers>=4.44
+accelerate>=1.1.0
+datasets
+numpy
+scikit-learn
+soundfile
+librosa        # only used if a clip is not already 16 kHz
+matplotlib     # confusion-matrix figure
