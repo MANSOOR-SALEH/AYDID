@@ -54,13 +54,13 @@ pip install -r requirements.txt
 ## Citation
 
 ```bibtex
-@inproceedings{aydid2026,
+@inproceedings{aydid2027,
   title     = {AYDID: A Sub-Dialectal Yemeni Arabic Corpus for Dialect
                Identification and Speech Recognition},
   author    = {Ba Mahel, Mansoor S. M. and Wei, Jianguo and Yue, Xianghu and
                Awn, Norah Saeed and Bamahel, Abdulaziz S.},
   booktitle = {Proc. IEEE ICASSP},
-  year      = {2026}
+  year      = {2027}
 }
 ```
 
